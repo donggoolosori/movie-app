@@ -45,3 +45,11 @@
   margin-right: 10px;
   font-size: 14px;
 }
+@media screen and (max-width: 1300px) {
+  .container {
+    width: 80%;
+  }
+  .movie_info {
+    width: 100%;
+  }
+}
