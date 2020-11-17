@@ -1,7 +1,7 @@
 # Description
+https://donggoolosori.github.io/movie-app/
 
-영화 정보 api를 사용하여 영화 리스트를 보여주는 app.
-
+영화 정보 api를 사용하여 영화 리스트를 보여주는 app.  
 ## 개발 언어
 
 - React
