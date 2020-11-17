@@ -13,21 +13,10 @@
 
 
 ## App Image
-
-### 1. 최초 실행 화면 (사용자 이름 입력)
-
-<img width="1440" alt="스크린샷 2020-11-06 오후 8 38 07" src="https://user-images.githubusercontent.com/53213397/98364378-0826fc80-2074-11eb-8751-4212a10ab7a9.png">
-
-### 2. 이름 입력 후 앱 화면
-<img width="1440" alt="스크린샷 2020-11-06 오후 8 35 47" src="https://user-images.githubusercontent.com/53213397/98364371-03fadf00-2074-11eb-94d8-5955de1a97b0.png">
-
-
-### 3. 할 일 체크 시 css 적용
-<img width="1440" alt="스크린샷 2020-11-06 오후 8 53 30" src="https://user-images.githubusercontent.com/53213397/98364383-0a895680-2074-11eb-94af-07ff5a7afc20.png">
-
-### 4. 완료 된 목록만 보기
-<img width="1440" alt="스크린샷 2020-11-06 오후 8 53 39" src="https://user-images.githubusercontent.com/53213397/98364391-0d844700-2074-11eb-8169-1d7ddc03d120.png">
-
-### 5. 완료하지 않은 목록만 목기
-<img width="1440" alt="스크린샷 2020-11-06 오후 8 53 45" src="https://user-images.githubusercontent.com/53213397/98364392-0fe6a100-2074-11eb-88c4-40c5b292e80d.png">
+### 1. full screen
+<img width="1440" alt="스크린샷 2020-11-17 오후 5 11 28" src="https://user-images.githubusercontent.com/53213397/99363433-1557ad00-28f8-11eb-855d-943b27e74cf4.png">
+### 2. middle screen
+<img width="1440" alt="스크린샷 2020-11-17 오후 5 11 41" src="https://user-images.githubusercontent.com/53213397/99363419-0ffa6280-28f8-11eb-8712-c2c8a7a83069.png">
+### 3. small screen
+<img width="1440" alt="스크린샷 2020-11-17 오후 5 11 54" src="https://user-images.githubusercontent.com/53213397/99363436-17217080-28f8-11eb-8853-e68bdd90c440.png">
 
